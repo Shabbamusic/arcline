@@ -1,12 +1,20 @@
 # ARCLINE
 
-Analyze your music crate, see the key, tempo, energy, and phrases in each track, and build DJ sets that flow from one record to the next. ARCLINE runs in your browser; the product site says audio is analyzed locally and not uploaded.
+A crate is full of possible journeys. ARCLINE reads the key, tempo, energy, and phrasing in each track, then helps you find a route from warm-up to peak time. It runs in your browser; the product site says audio is analyzed locally and not uploaded.
 
 - [Open ARCLINE](https://set.shabbamusic.com)
 - [How it works](https://set.shabbamusic.com/#read)
 - [User guide](https://set.shabbamusic.com/guide/)
 - [Privacy](https://set.shabbamusic.com/privacy/)
 - [SHABBA Music on YouTube](https://www.youtube.com/@ShabbaSounds)
+
+## In the browser
+
+Open the example crate, look at the energy and phrase cues, then follow the transition suggestions and audition a blend. You can start exploring before you bring in your own tracks.
+
+![ARCLINE analyzing an example crate, with track energy, phrase cues, and key and tempo details](assets/screenshots/crate-analysis.png)
+
+![ARCLINE's planned DJ set, with its timeline and transition mix controls](assets/screenshots/planned-set.png)
 
 ## What it does
 
@@ -30,7 +38,7 @@ The product site reports tempo comparisons on 13 house and techno tracks and not
 
 Read the [ARCLINE guide](https://set.shabbamusic.com/guide/) and [privacy page](https://set.shabbamusic.com/privacy/). Report reproducible problems in [GitHub Issues](https://github.com/Shabbamusic/arcline/issues), including browser, operating system, file format, and steps to reproduce.
 
-Explore [SHABBA Plugins](https://github.com/Shabbamusic/shabba-plugins), [Ref2Set](https://github.com/Shabbamusic/ref2set), [Visualizer](https://visualizer.shabbamusic.com), [Audio](https://audio.shabbamusic.com), and the [SHABBA hub](https://shabbamusic.com).
+Explore [SHABBA Plugins](https://github.com/Shabbamusic/shabba-plugins), [Ref2Set](https://github.com/Shabbamusic/ref2set), [Visualizer](https://github.com/Shabbamusic/shabba-visualizer), [Audio](https://audio.shabbamusic.com), and the [SHABBA hub](https://shabbamusic.com).
 
 ## License and source availability
 
